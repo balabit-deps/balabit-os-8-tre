@@ -1,3 +1,9 @@
+tre (0.8.0-6bb1) focal; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Wed, 16 Dec 2020 14:22:39 +0100
+
 tre (0.8.0-6) unstable; urgency=medium
 
   * Add locales-all to Build-Depends and enable test suite in full.
